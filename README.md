@@ -20,3 +20,4 @@ Known Issues :
 
 TODO :
  - still working on it
+ - jump the non some variable settings like hide/show/render/expand/
