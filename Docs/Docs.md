@@ -13,3 +13,5 @@
 ![Image](http://i.stack.imgur.com/Ob676m.jpg)
 
 ##How to use 
+
+![Image](http://i.stack.imgur.com/pBTkr.png)
