@@ -1,8 +1,8 @@
 #Modifier Linker
 
 ###Table of Contents
- * [Install](#Install)
- *[How to use](#How to use)
+ * [Install](#install)
+ * [How to use](#how-to-use)
  
 ##Install
 
