@@ -2,7 +2,7 @@
 
 ###Table of Contents
  * [Install](#install)
- * [How to use](#how to use)
+ * [How to use](#how-to-use)
  
 ##Install
 
