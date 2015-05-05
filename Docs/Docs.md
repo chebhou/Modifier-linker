@@ -33,7 +33,7 @@ this will remove all modifiers' links on this object
 disable "linked" option of all objects meaning all object will not be updated 
 
 ###link all objects :
-enable the "Link" option of all objects , this doesn't mean all objects will be updated [(see why)](#when the object get updated)
+enable the "Link" option of all objects , this doesn't mean all objects will be updated [(see why)](###when-the-object-gets-updated-:)
 
 ###Clear all updates :
 set all update events of all objects to "no update" so no object link get updated
@@ -54,7 +54,7 @@ a modifier link has three properties :
    the source from which we copy from the modifier parameters 
 
  * ###Linked :
-   activate and disactivate this link ( this gets overridden by the "Linked" property of the object ) 
+   activate and disactivate this link ( this gets overridden by the "Linked" property of the object ), you can't turn this ON unless you have entered a valid Object name and Modifier name 
 
 
 ###Remove :
@@ -62,3 +62,12 @@ remove this link
 
 ###Add a link :
 add new link
+
+----
+
+###when the object gets updated :
+
+ - the object "Linked" property should be ON
+ - the object "update event"  should not be "No update"
+ - the link  "Linked" propety should be ON
+ - the link  "Object" should be on the same scene
